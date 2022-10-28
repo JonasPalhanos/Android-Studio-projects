@@ -1,7 +1,8 @@
 # FichaDigital
 Desenvolvedores:
 
-Altair A. Alves Junior.
+
+Altair A. Alves Junior. 
 Jonas Palhanos.       
 Murilo Pereira dos Santos.
 
