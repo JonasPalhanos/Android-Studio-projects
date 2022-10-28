@@ -1,8 +1,8 @@
 # FichaDigital
-Alunos:
-Altair A. Alves Junior     RGA:2018.1902.028-2.
-Jonas Palhanos.            RGA:2018.1902.087-8.
-Murilo Pereira dos Santos  RGA:2018.1902.056-8.
+Desenvolvedores:
+Altair A. Alves Junior.
+Jonas Palhanos.       
+Murilo Pereira dos Santos.
 
 Descrição:
 O aplicativo sera uma forma de salvar e exibir várias fichas de personagem do sistema de RPG Tormneta20.
