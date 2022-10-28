@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FichaDigital</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="text_edt_cadastro">Editar Perfil</string>
+    <string name="foto_personagem"></string>
+    <string-array name="escolhas">
+        <item>"Opções"</item>
+        <item>"Musica"</item>
+        <item>"Equipamentos"</item>
+        <item>"Pericias"</item>
+        <item>"Poderes"</item>
+        <item>"Magias"</item>
+        <item>"Notas"</item>
+        <item>"Personagem"</item>
+        <item>"Sair"</item>
+    </string-array>
+
+</resources>
